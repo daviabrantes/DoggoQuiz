@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">DoggoQuiz</string>
+    <string name="title_start">Know your breed!</string>
+    <string name="title_in_game">What breed is that?</string>
+    <string name="title_end_game">Nice job! Your score is: %s</string>
+    <string name="subtitle_start">Click the button below to start.</string>
+    <string name="subtitle_in_game">Take your shot.</string>
+    <string name="subtitle_end_game">Have another try if you like.</string>
+    <string name="button_start">Start</string>
+    <string name="button_end_game">Play again</string>
+
+</resources>
